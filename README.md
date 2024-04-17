@@ -3,6 +3,7 @@
 
 <h4>Listening to 🎧</h4>
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+<a href="https://github.com/SamiulUtshaw"><img src="https://discord.c99.nl/widget/theme-4/608890949048991764.png" alt="s4nx Playing Now" width="400" /></a>
 
 ![visitors](https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue)
 
