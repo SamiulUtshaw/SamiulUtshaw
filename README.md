@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/SamiulUtshaw"><img width="80%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" /></a></p>
+<p align="center"><a href="https://github.com/SamiulUtshaw"><img width="100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" /></a></p>
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
