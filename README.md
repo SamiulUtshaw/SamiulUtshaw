@@ -1,12 +1,15 @@
 <p align="center"><a href="https://github.com/SamiulUtshaw"><img width="100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" /></a></p>
 
 
-<h4>Listening to 🎧</h4>
-<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+<h2> Discord Activity <a href="https://emoji.gg/emoji/5542-discord-clyde-gif"><img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="64px" height="64px" alt="discord_clyde_gif"></a></h2>
+<!-- <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> -->
 <a href="https://github.com/SamiulUtshaw"><img src="https://discord.c99.nl/widget/theme-4/608890949048991764.png" alt="s4nx Playing Now" width="400" /></a>
 
-![visitors](https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue)
 
+<h1>  </h1>
+
+![visitors](https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue)
+ 
 </p>
 <div size='50px'> Hi! My name is Samiul Bashir. Thank You for taking the time to view my GitHub Profile
 </div>
