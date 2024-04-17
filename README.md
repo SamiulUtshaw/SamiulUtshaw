@@ -1,16 +1,16 @@
 <p align="center"><a href="https://github.com/SamiulUtshaw"><img width="100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" /></a></p>
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+<h4>Listening to 🎧</h4>
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
 ![visitors](https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue)
 
 </p>
-<div size='20px'> Hi! My name is Samiul Bashir. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='50px'> Hi! My name is Samiul Bashir. Thank You for taking the time to view my GitHub Profile
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
