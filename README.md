@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on Real Estate broker...
 
-- 🌱 I’m currently learning Djanog, C#...
+- 🌱 I’m currently learning Django, C#...
 
 - 👯 I’m looking to collaborate on projects, tech articles...
 
-- 💬 Talk to me about C, C++, Java, Python, JavaScript, Freelancing Opportunites, Open Source,
+- 💬 Talk to me about C, C++, Java, Python, JavaScript, Freelancing Opportunities, Open Source,
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/SamiulUtshaw?tab=repositories&q=&type=&language=python&sort= > <img width ='40px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
