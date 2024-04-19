@@ -1,5 +1,6 @@
 <p align="center"><a href="https://github.com/SamiulUtshaw"><img width="100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" /></a></p>
 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue"></p>
 
 <h2> Spotify Activity <a href="https://spotify.com/"><img src="https://i.ibb.co/QQ9CwP8/output-onlinegiftools-3.gif" width="92.75px" height="64px" alt="discord_clyde_gif"></a></h2>
 <!-- <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> -->
@@ -11,8 +12,6 @@
 <a href="https://github.com/SamiulUtshaw"><img src="https://discord.c99.nl/widget/theme-4/608890949048991764.png" alt="s4nx Playing Now" width="400" /></a>
 
 <h1>  </h1>
-
-![visitors](https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue)
 
 </p>
 <div size='50px'> Hi! My name is Samiul Bashir. Thank You for taking the time to view my GitHub Profile
