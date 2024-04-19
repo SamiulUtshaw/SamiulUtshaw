@@ -1,6 +1,14 @@
 <p align="center"><a href="https://github.com/SamiulUtshaw"><img width="100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" /></a></p>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue"></p>
+<p align="center">
+  <a href="https://www.facebook.com/samiul.utshaw"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a> <a href="https://www.instagram.com/samiulutshaw10/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/samiulutshaw10"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samiulutshaw/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.freelancer.com/u/magicianutshaw3"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/UTSHAW/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white " /></a>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue"></p>
 
 <h2> Spotify Activity <a href="https://spotify.com/"><img src="https://i.ibb.co/QQ9CwP8/output-onlinegiftools-3.gif" width="92.75px" height="64px" alt="discord_clyde_gif"></a></h2>
 <!-- <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> -->
@@ -46,12 +54,6 @@
 <a href= https://github.com/SamiulUtshaw?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='40px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
 <a href= https://github.com/SamiulUtshaw?tab=repositories&q=&type=&language=blender&sort= > <img width ='40px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
 <a href= https://github.com/SamiulUtshaw?tab=repositories&q=&type=&language=unreal&sort= > <img width ='40px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="100px" height=46.39px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/samiulutshaw/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/samiulutshaw10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://samiulbashir.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/https://github.com/SamiulUtshaw'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://wakatime.com/@samiulutshaw">
