@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue"></p>
 
-<h2> Activity <a><img src="https://i.ibb.co/QQ9CwP8/output-onlinegiftools-3.gif" width="92.75px" height="64px" alt="spotify_clyde_gif"> <img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="64px" height="64px" alt="discord_clyde_gif"></a></h2>
+<h2> Activity <a><img src="https://i.ibb.co/QQ9CwP8/output-onlinegiftools-3.gif" width="92.75px" height="64px" alt="spotify_clyde_gif"><img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="64px" height="64px" alt="discord_clyde_gif"></a></h2>
 <!-- <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> -->
 
 
@@ -24,8 +24,8 @@
 <h1>  </h1>
 
 </p>
-<div size='50px'> Hi! My name is Samiul Bashir. Thank You for taking the time to view my GitHub Profile
-</div>
+<h3> Hi! My name is Samiul Bashir. Thank You for taking the time to view my GitHub Profile
+</h3>
 
 <h2> About Me </h2>
 
