@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.facebook.com/samiul.utshaw"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a> <a href="https://www.instagram.com/samiulutshaw10/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/samiulutshaw10"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://twitter.com/samiulutshaw10"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samiulutshaw/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.freelancer.com/u/magicianutshaw3"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/UTSHAW/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white " /></a>
+  <a href="https://steamcommunity.com/id/UTSHAW/"><img src="https://img.shields.io/badge/steam-%23171a21.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue"></p>
