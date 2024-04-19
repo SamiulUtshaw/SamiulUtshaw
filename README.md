@@ -10,13 +10,13 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-SamiulUtshaw&color=blue"></p>
 
-<h2> Spotify Activity <a href="https://spotify.com/"><img src="https://i.ibb.co/QQ9CwP8/output-onlinegiftools-3.gif" width="92.75px" height="64px" alt="discord_clyde_gif"></a></h2>
+<h2> Activity <a><img src="https://i.ibb.co/QQ9CwP8/output-onlinegiftools-3.gif" width="92.75px" height="64px" alt="spotify_clyde_gif"> <img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="64px" height="64px" alt="discord_clyde_gif"></a></h2>
 <!-- <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> -->
 
 
 <div align="center">
 
-[<img src="https://readme-spotify-status-five.vercel.app//api/run-spotify-status" alt="Your alt what" width="430" />](https://open.spotify.com/user/31cilluzt6kougjkxz2bb4m7oqo4?si=0a33630baaf14a92)
+[<img src="https://readme-spotify-status-five.vercel.app//api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/31cilluzt6kougjkxz2bb4m7oqo4?si=0a33630baaf14a92)
 <a href="https://github.com/SamiulUtshaw"><img src="https://discord.c99.nl/widget/theme-4/608890949048991764.png" alt="s4nx Playing Now" width="400" /></a>
 
 </div>
